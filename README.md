@@ -15,3 +15,5 @@ What I will learn;
 * Loop through Result Set and insert into HTML
 * API Page Tokens
 * FancyBox jQuery Plugin
+
+For some reason I thought this was going to be a Rails project, so my progress is not registered. Sorry.
